@@ -1,4 +1,4 @@
-//Stack using java
+//2(a).Stack using java
 
 import java.util.Arrays;
 import java.util.Scanner;
